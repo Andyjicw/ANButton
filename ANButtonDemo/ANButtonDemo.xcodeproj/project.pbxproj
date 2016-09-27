@@ -10,7 +10,6 @@
 		A1468A9D1D9A60110063E0ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A16007F71D9A5E88004A0F41 /* Assets.xcassets */; };
 		A1468A9E1D9A60110063E0ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A16007F81D9A5E88004A0F41 /* LaunchScreen.storyboard */; };
 		A1468A9F1D9A60110063E0ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A16007FA1D9A5E88004A0F41 /* Main.storyboard */; };
-		A1468AA01D9A60110063E0ED /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A16007FC1D9A5E88004A0F41 /* Info.plist */; };
 		A1468AA11D9A60180063E0ED /* ANButton.m in Sources */ = {isa = PBXBuildFile; fileRef = A160080A1D9A5EB9004A0F41 /* ANButton.m */; };
 		A1468AA21D9A60180063E0ED /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A16008001D9A5E88004A0F41 /* ViewController.m */; };
 		A1468AA31D9A60180063E0ED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A16007F61D9A5E88004A0F41 /* AppDelegate.m */; };
@@ -163,7 +162,6 @@
 				A1468A9D1D9A60110063E0ED /* Assets.xcassets in Resources */,
 				A1468A9E1D9A60110063E0ED /* LaunchScreen.storyboard in Resources */,
 				A1468A9F1D9A60110063E0ED /* Main.storyboard in Resources */,
-				A1468AA01D9A60110063E0ED /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
